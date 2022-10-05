@@ -4,4 +4,5 @@ There are terminall instructions, but for learning/data feeding, yyou can paste 
 
 # discription
 Simple, multi-purpouse neural net, more of a learning project
-not werry capable, but easy to use, coded in c++
+not werry capable, but easy to use, coded in c++.
+The nets structure is created via terminal, so it can be easily modified.
